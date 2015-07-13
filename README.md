@@ -2,7 +2,9 @@
 
 July 9th - Asked aproval for wordpress plugin site
 
-July 10th - Current Time - Still Waiting
+July 10th - July 12th - Still Waiting
+
+July 13th - It's Up! https://wordpress.org/plugins/cosmic-normalizer
 
 #More Info
 
