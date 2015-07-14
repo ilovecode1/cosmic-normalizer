@@ -1,41 +1,11 @@
-# Live Updates
+Cosmic-Normalizer is a wordpress plugin to add Normalize.css to Wordpress to help with making a templete.
 
-July 9th - Asked aproval for wordpress plugin site
+More Info:
 
-July 10th - July 12th - Still Waiting
+* Language(s): PHP,CSS
+* Download Link: https://downloads.wordpress.org/plugin/cosmic-normalizer.zip
+* Official Page: https://wordpress.org/plugins/cosmic-normalizer/
+* Version: 1.0.0
+* Wordpress Versions: 3.1+
 
-July 13th - It's Up! https://wordpress.org/plugins/cosmic-normalizer
-
-#More Info
-
-=== Normalizer ===
-
-Contributors: cosmicweb
-
-Donate link: http://cosmicsearch.org
-
-Tags: css,reser
-
-Requires at least: 3.1
-
-Tested up to: 4.2.2
-
-Stable tag: trunk
-
-Reset CSS in WordPress 3.1+
-
-== Description ==
-
-The unoffical Normalize.css Wordpress Plugin!
-
-
-== Installation ==
-
-1. Upload `normalizer.php` to the `wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Enjoy!, there are no settings for this.
-
-== Changelog ==
-
-= 1.0.0 =
-* Release
+Download Today! :)
