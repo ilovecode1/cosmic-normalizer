@@ -1,5 +1,7 @@
 Cosmic-Normalizer is a wordpress plugin to add Normalize.css to Wordpress to help with making a templete.
 
+#GIVE US FIVE https://wordpress.org/support/view/plugin-reviews/cosmic-normalizer
+
 More Info:
 
 * Language(s): PHP,CSS
