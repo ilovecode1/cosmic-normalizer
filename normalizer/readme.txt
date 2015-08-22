@@ -21,5 +21,9 @@ The unoffical Normalize.css Wordpress Plugin!
 
 == Changelog ==
 
+=1.1.0=
+
+*Bug Fix
+
 = 1.0.0 =
 * Release
