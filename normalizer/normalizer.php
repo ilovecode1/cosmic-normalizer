@@ -2,7 +2,7 @@
 /* 
 Plugin Name: Normalizer
 Description: The unoffical Normalize.css Wordpress Plugin
-Version: 1.0.0
+Version: 1.1.0
 Author: Cosmic Web Services
 Author URI: http://cosmicsearch.org
 */
