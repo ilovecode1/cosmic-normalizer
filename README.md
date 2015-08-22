@@ -1,3 +1,5 @@
+Cosmic Normalizer will nut be updated on the store for now because of issues.
+
 Cosmic-Normalizer is a wordpress plugin to add Normalize.css to Wordpress to help with making a templete.
 
 #GIVE US FIVE 
