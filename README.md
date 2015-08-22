@@ -15,3 +15,8 @@ More Info:
 * Wordpress Versions: 3.1+
 
 Download Today! :)
+
+#Contributers
+
+ilovecode1
+AGSoftAU
