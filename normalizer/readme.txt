@@ -3,7 +3,7 @@ Contributors: cosmicweb
 Donate link: http://cosmicsearch.org
 Tags: css,reser
 Requires at least: 3.1
-Tested up to: 4.2.2
+Tested up to: 4.3
 Stable tag: trunk
 
 Reset CSS in WordPress 3.1+
